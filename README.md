@@ -63,6 +63,8 @@ Our propositional idea density features depend on the [adapted IDD3 repo](https:
 Instructions
 ------------
 
+Running `setup.sh` in a bash-like environment will fetch the corpora and these repos for you.
+
 **Under development:** This README is still under development and will be supplemented with all of the necessary scripts to automate the replication of our results.
 
 
