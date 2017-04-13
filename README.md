@@ -14,6 +14,10 @@ Valencia, Spain, April 3-7, 2017. Association for Computational Linguistics.
 
 **Note:** This README is still under development and will be supplemented with all of the necessary scripts to automate the replication of our results.
 
+The first couple of sections describe the resources used at a high-level.
+These sections are followed by a detailed "Instructions" section.
+References come after that, followed with some metadata for this document.
+
 Corpora
 -------
 
@@ -44,3 +48,32 @@ Our integration cost features use a locally-developed tool called `icy-parses` (
 ### Calculating propositional idea density
 
 Our propositional idea density depend on the code at https://github.com/dmhowcroft/idd3 and therefore also on the Stanford dependency parser.
+
+Instructions
+------------
+
+References
+----------
+
+Howcroft, David M., and Vera Demberg. 2017. 
+"Psycholinguistic Models of Sentence Processing Improve Sentence Readability Ranking". 
+Proc. of the 15th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers. 
+Pages 958-968.
+Valencia, Spain, April 3-7, 2017. Association for Computational Linguistics.
+[ACL Anthology](http://aclanthology.info/papers/psycholinguistic-models-of-sentence-processing-improve-sentence-readability-ranking)
+||
+[PDF](http://aclweb.org/anthology/E17-1090)
+
+Hwang, William, Hannaneh Hajishirzi, Mari Ostendorf, and Wei Wu. 2015. 
+"Aligning Sentences from Standard Wikipedia to Simple Wikipedia".
+Proc. of the 2015 COnference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT).
+Pages 211-217.
+Denver, Colorado, USA. Association for Computational Linguistics.
+[ACL Anthology](http://aclanthology.info/papers/aligning-sentences-from-standard-wikipedia-to-simple-wikipedia)
+||
+[PDF](http://aclweb.org/anthology/N15-1022)
+
+Metadata
+--------
+
+Written by David M. Howcroft, April 2017.
